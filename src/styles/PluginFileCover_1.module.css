@@ -1,0 +1,88 @@
+@import "https://fonts.googleapis.com/css?family=Inter:1,700&display=swap";
+.PluginFileCover_1_102_29 {
+  background: #97921b;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 1495px;
+  overflow: hidden;
+}
+.Group_1_102_30 {
+  flex-shrink: 0;
+  width: 1170px;
+  height: 1444px;
+}
+.Rectangle_2_102_34 {
+  background:
+    url(<path-to-image>),
+    #d3d3d3 50% / cover no-repeat;
+  flex-shrink: 0;
+  width: 1170px;
+  height: 188px;
+}
+.generated_Поваренок_102_35 {
+  color: #2925de;
+  width: 539px;
+  font-family: Inter;
+  font-size: 96px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
+.generated_Кухня_102_59 {
+  color: #000;
+  letter-spacing: 20px;
+  flex-shrink: 0;
+  width: 257px;
+  height: 47px;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
+.Rectangle_13_102_60 {
+  background: #d9d9d9;
+  flex-shrink: 0;
+  width: 321px;
+  height: 96px;
+}
+.generated_Русская_102_61 {
+  color: #000;
+  flex-shrink: 0;
+  width: 201px;
+  height: 74px;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
+.Rectangle_14_102_64 {
+  background: #d9d9d9;
+  flex-shrink: 0;
+  width: 308px;
+  height: 96px;
+}
+.generated_Грузинская_102_65 {
+  color: #000;
+  width: 252px;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
+.generated_ТутБудутОбновлятьсяБлоки_102_67 {
+  color: #000;
+  width: 1470px;
+  font-family: Inter;
+  font-size: 96px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+}
